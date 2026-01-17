@@ -1,0 +1,4 @@
+[project]
+name = "cairo"
+version = "0.1.0"
+description = "Cairo application"
